@@ -17,8 +17,6 @@
 - ⚡ Fun fact **I'm also a high skilled Designer**
 
 <h3 align="left">Connect with me:</h3>
-###
-
 
 <div align="left">
   <a href="mailto:focuseven@gmail.com" target="_blank">
