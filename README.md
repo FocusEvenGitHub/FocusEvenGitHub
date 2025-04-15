@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=focusevengithub&label=Profile%20views&color=0e75b6&style=flat" alt="focusevengithub" /> </p>
 
-- 🔭 I’m worked on **DNIT - Departamento Nacional de Infraestrutura de Transportes**
+- 🔭 I worked on **DNIT DF** and now I'm at **P21 Sistemas** 
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **PHP Frameworks and PSRs**
 
 - 👨‍💻 All of my projects are available at [https://focuseven.netlify.app/home-en](https://focuseven.netlify.app/home-en)
 
