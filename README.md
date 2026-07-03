@@ -4,7 +4,7 @@
 
 - 🔭 I worked on **DNIT DF** and now I'm at **P21 Sistemas** 
 
-- 🌱 I’m currently learning **PHP Frameworks and PSRs**
+- 🌱 I’m currently learning **AI coding and automatization**
 
 - 👨‍💻 All of my projects are available at [https://focuseven.netlify.app/home-en](https://focuseven.netlify.app/home-en)
 
